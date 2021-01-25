@@ -1,0 +1,19 @@
+{
+  "name": "version-bump-experiment",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavelescurazvan/version-bump-experiment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavelescurazvan/version-bump-experiment/issues"
+  },
+  "homepage": "https://github.com/pavelescurazvan/version-bump-experiment#readme"
+}
